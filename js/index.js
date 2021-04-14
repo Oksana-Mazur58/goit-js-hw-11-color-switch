@@ -1,4 +1,4 @@
-import colors from './colors'
+import colors from './colors.js'
 
 const refs = {
     buttonStart: document.querySelector('[data-action=start]'),
